@@ -1,0 +1,32 @@
+{
+  "WhitelistedUsers": {
+    "919665092025528441": {
+      "hash": "40cc3f8d11871fd051757d4a49f3278aa1eafb78dc920faa2295ee2095911b343a43777f4d5e15194ac974215575ffc656d72e05de3e47603a06824f87004e70",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
+    }
+  },
+  "WhitelistedTags": {
+  	"919665092025528441": [
+      {
+        "text": "HCKR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ]
+  },
+  "BlacklistedUsers": []
+}
