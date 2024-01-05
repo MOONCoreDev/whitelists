@@ -14,10 +14,35 @@
           ]
         }
       ]
+    },
+    "903828269860786176": {
+      "hash": "1b70bcbff20b54381cc4ed6316ba3c58dde9907d882e4b2f9328fda50f2b0b6442e8b00f3c92233d3bce943dfefbdab4a48d0ca722b7660914b37e7299f8cfe4",
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "HCKR",
+          "color": [
+            255,
+            255,
+            255
+          ]
+        }
+      ]
     }
   },
   "WhitelistedTags": {
   	"919665092025528441": [
+      {
+        "text": "HCKR",
+        "color": [
+          255,
+          255,
+          255
+        ]
+      }
+    ],
+    "903828269860786176": [
       {
         "text": "HCKR",
         "color": [
