@@ -3,8 +3,7 @@
 		"903828269860786176": {
 			"hash": "73b223658210ed505d7b724a82d34fc1cd3d6ceccf4d4505eb0260fe3963f63756aba6e4c383d5bc7f81878e6e0fbf147033cb41cb2cb58c755d8728cf46aa9d",
 			"attackable": false,
-			"Ranks": 1,
-			"KickWhenFound": false
+			"Ranks": 1
 		}
 	}
 }
